@@ -2,7 +2,7 @@
 ## The purpose of this function is to generate a Matrix and calculate the inverse of
 ## that matrix
 
-## The part of the code creates a special "matrix" object that can cache its inverse.
+## This first part of the code creates a special "matrix" object that can cache its inverse.
 ## Basically the code creates a list containing a function to set the value of 
 ## the matrix, get the values of the matrix, set the values of the inverse of the 
 ## matrix, and last but not least, getting the inverse values of the matrix
